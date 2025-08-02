@@ -1,4 +1,4 @@
-his document provides a guide for using the accompanying Excel file, which is designed to help users evaluate the financial feasibility of investing in a solar rooftop system in Vietnam. By inputting key financial and technical data, you can analyze potential returns, payback periods, and overall profitability of the investment.
+This document provides a guide for using the accompanying Excel file, which is designed to help users evaluate the financial feasibility of investing in a solar rooftop system in Vietnam. By inputting key financial and technical data, you can analyze potential returns, payback periods, and overall profitability of the investment.
 
 Key Input Parameters
 The model requires the following data to perform the analysis. Please fill in the values for each parameter.
